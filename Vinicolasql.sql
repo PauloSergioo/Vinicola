@@ -1,0 +1,1 @@
+INSERT INTO tb_regiao(nome, localidade_s, localidade_w, descricao) ALUES('Vale Central', 33.8088, 70.7644, 'Chile');
